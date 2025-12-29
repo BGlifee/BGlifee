@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**BGlifee/BGlifee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hisu - a data enthusiast who loves building predictive models that make sense in the real world.
 
-Here are some ideas to get you started:
+I enjoy bridging the technical and human sides of data: turning complex results into insights people actually understand and use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Python, pandas, scikit-learn, XGBoost, and I care a lot about clean pipelines,
+reproducibility, and interpretability.
+
+I've built several ML projects, but my favorites are:
+
+- Telco Churn Model – end-to-end pipeline + ROI insights
+- Wine Quality Prediction – model comparison + real understanding
+- Molecular Melting-Point Prediction – scalable scientific ML project (Top 30% Kaggle 🏅)
+
+If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy my work 😊
+
+#Fun Facts
+
+- I love learning new tools and improving workflows
+- Currently exploring SQL, FastAPI & MLOps
+- Coffee + coding = perfect day ☕️💻
+
+- 📫 Let’s connect on LinkedIn: linkedin.com/in/hisu-kim-5319151a4
