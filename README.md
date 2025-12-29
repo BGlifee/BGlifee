@@ -7,7 +7,7 @@ I enjoy bridging the technical and human sides of data: turning complex results 
 My main stack is Python, pandas, scikit-learn, XGBoost, and I care a lot about clean pipelines,
 reproducibility, and interpretability.
 
-I've built several ML projects, but my favorites are:
+I've built several ML projects, but **my favorites** are:
 
 - Telco Churn Model – end-to-end pipeline + ROI insights
 - Wine Quality Prediction – model comparison + real understanding
@@ -15,7 +15,7 @@ I've built several ML projects, but my favorites are:
 
 If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy my work 😊
 
-# Fun Facts
+**Fun Facts**
 
 - I love learning new tools and improving workflows
 - Currently exploring SQL, FastAPI & MLOps
