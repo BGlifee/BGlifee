@@ -15,10 +15,11 @@ I've built several ML projects, but my favorites are:
 
 If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy my work 😊
 
-#Fun Facts
+# Fun Facts
 
 - I love learning new tools and improving workflows
 - Currently exploring SQL, FastAPI & MLOps
 - Coffee + coding = perfect day ☕️💻
 
-- 📫 Let’s connect on LinkedIn: linkedin.com/in/hisu-kim-5319151a4
+- 📫 [Let’s connect on LinkedIn](https://linkedin.com/in/hisu-kim-5319151a4)
+
