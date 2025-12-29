@@ -22,6 +22,6 @@ If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy m
 - Coffee + coding = perfect day ☕️💻
 
 - 📫 [Let’s connect on LinkedIn](https://linkedin.com/in/hisu-kim-5319151a4)
-- 📫 [Upwork Profile](https://www.upwork.com/freelancers/~abcdefgh123456)
+- 📫 [Upwork Profile](https://www.upwork.com/freelancers/~015d662de674641437?mp_source=share)
 
 
