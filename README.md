@@ -10,7 +10,7 @@ reproducibility, and interpretability.
 I've built several ML projects, but **my favorites** are:
 
 - Telco Churn Model – end-to-end pipeline + ROI insights
-- Wine Quality Prediction – model comparison + real understanding
+- NLP Job Segmentation & Taxonomy Mapping – semantic embeddings, clustering, and O*NET / SOC alignment for labor-market analysis
 - Molecular Melting-Point Prediction – scalable scientific ML project (Top 30% Kaggle 🏅)
 
 If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy my work 😊
