@@ -1,24 +1,23 @@
-## Hi there 👋
+Hi there 👋
 
-I'm Hisu - a data enthusiast who loves building predictive models that make sense in the real world.
+I'm Hisu, a BI Analyst focused on turning data into actionable business insights.
 
-I enjoy bridging the technical and human sides of data: turning complex results into insights people actually understand and use.
+I specialize in revenue analysis, customer behavior, and dashboard-driven decision making using SQL, Power BI, and Python.
 
-My main stack is Python, pandas, scikit-learn, XGBoost, and I care a lot about clean pipelines,
-reproducibility, and interpretability.
+My work focuses on:
+- Identifying key revenue drivers (AOV, product mix, seasonality)
+- Building dashboards that support business decisions
+- Translating data into clear, actionable insights
 
-I've built several ML projects, but **my favorites** are:
+📊 Featured Projects:
+- BI-Analyst_Revenue-Analysis_AdventureWorks  
+- BI-Analyst_customer-churn-prediction  
 
-- Telco Churn Model – end-to-end pipeline + ROI insights
-- NLP Job Segmentation & Taxonomy Mapping – semantic embeddings, clustering, and O*NET / SOC alignment for labor-market analysis
-- Molecular Melting-Point Prediction – scalable scientific ML project (Top 30% Kaggle 🏅)
-
-If you like clarity, collaboration, and thoughtful engineering, you’ll enjoy my work 😊
+If you're looking for someone who can bridge data and business impact, you're in the right place.
 
 **Fun Facts**
 
-- I love learning new tools and improving workflows
-- Currently exploring SQL, FastAPI & MLOps
+- I enjoy refining data workflows and uncovering insights that support business decisions.
 - Coffee + coding = perfect day ☕️💻
 
 - 📫 [Let’s connect on LinkedIn](https://linkedin.com/in/hisu-kim-5319151a4)
