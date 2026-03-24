@@ -18,7 +18,6 @@ If you're looking for someone who can bridge data and business impact, you're in
 **Fun Facts**
 
 - I enjoy refining data workflows and uncovering insights that support business decisions.
-- Coffee + coding = perfect day ☕️💻
 
 - 📫 [Let’s connect on LinkedIn](https://linkedin.com/in/hisu-kim-5319151a4)
 - 📫 [Upwork Profile](https://www.upwork.com/freelancers/~015d662de674641437?mp_source=share)
